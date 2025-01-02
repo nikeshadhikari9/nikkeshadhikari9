@@ -32,7 +32,7 @@ I aim to continue learning and developing software solutions that improve proces
 
 ## 📫 How to Reach Me
 - **Email:** nickeshadhikari@gmail.com
-- **GitHub:** [https://github.com/Nickeshadhikari9](https://github.com/Nickeshadhikari9)
+- **GitHub:** [https://github.com/Nickeshadhikari9](https://github.com/nikkeshadhikari9)
 - **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 
 ---
